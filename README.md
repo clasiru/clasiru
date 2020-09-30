@@ -15,7 +15,8 @@
 [twitter]: https://twitter.com/clasiru
 [facebook]: https://facebook.com/clasiru
 
+---
+
 <details>
-  <summary>:zap: Github Stats</summary>
   <img align="left" alt="Chandika's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=clasiru&show_icons=true&hide_border=true" />
 </details>
