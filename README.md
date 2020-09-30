@@ -14,6 +14,7 @@
 [linkedin]: https://linkedin.com/in/clasiru
 [twitter]: https://twitter.com/clasiru
 [facebook]: https://facebook.com/clasiru
-  
 
+&nbsp;
+---
 <img align="left" alt="Chandika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=clasiru&hide=contribs,prs&show_icons=true&hide_border=true" />
