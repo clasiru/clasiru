@@ -16,7 +16,4 @@
 [facebook]: https://facebook.com/clasiru
 
 ---
-
-<details>
-  <img align="left" alt="Chandika's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=clasiru&show_icons=true&hide_border=true" />
-</details>
+<img align="left" alt="Chandika's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=clasiru&show_icons=true&hide_border=true" />
